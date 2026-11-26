@@ -32,7 +32,6 @@ src/
   OpinionesETL.SocialApi       API REST de comentarios sociales (sirve social_comments.csv)
 sql/                           scripts de las bases, los procedimientos almacenados y la verificación
 data/                          archivos CSV
-diagramas/                     diagrama de arquitectura y diagrama de flujo
 ```
 
 ## Requisitos
